@@ -1,5 +1,7 @@
 # The Digital Transformation Journey Blog
 
+[https://digitaltransformationjourney.blogspot.com/](https://digitaltransformationjourney.blogspot.com/)
+
 ## About
 
 Welcome to "The Digital Transformation Journey," a blog dedicated to exploring how traditional industries can embrace technology. This platform serves as a resource for individuals and businesses alike to navigate the complexities of digital transformation. Through insightful articles and in-depth analysis, we delve into the languages that shaped the technological world, the future of computers in information technology, and the transformative power of computers in various sectors.

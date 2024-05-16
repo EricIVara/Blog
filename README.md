@@ -1,5 +1,7 @@
 # The Digital Transformation Journey Blog
 
+![Screenshot 2024-05-16 131735](https://github.com/EricIVara/Blog/assets/79364739/477e3376-f230-40da-b0d3-d7d96361edba)
+
 [https://digitaltransformationjourney.blogspot.com/](https://digitaltransformationjourney.blogspot.com/)
 
 ## About
